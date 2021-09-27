@@ -15,5 +15,6 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * ![0927mozgokocsi](https://user-images.githubusercontent.com/71563655/134878946-09a86e6c-41c2-4e75-bd1f-41e4f3c3cfc6.png)
         * Hozzáadtam pár assets-et
             * https://www.unrealengine.com/marketplace/en-US/product/a4907129f69c44a892f76782489736ab#
+            * ![0927houseassets](https://user-images.githubusercontent.com/71563655/134886117-fcd69fc9-8c3b-4bc5-93bd-02e9a6f9ca4c.png)
             * https://www.unrealengine.com/marketplace/en-US/product/bbcb90a03f844edbb20c8b89ee16ea32?sessionInvalidated=true
         * 
