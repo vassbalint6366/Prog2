@@ -25,6 +25,6 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Mozog a kocsi, már csak az animáció kell hozzá.
     * 2021.10.03:
         * Animációt megcsináltam hozzá. Idáig nem vettem észre vele kapcsolatban hibát. Ha a kézi féket használjuk akkor megállnak, kanyarodásnál mozdulnak, úgy ahogy kell.
-        * Kameramozgást tettem bele, amit az egérrel tudjuk kezelni. -> Kamera bug: be lehet vinni a föld alá.
+        * Kameramozgást tettem bele, amit az egérrel tudjuk kezelni. -> Kamera bug: be lehet vinni a föld alá és szilárd tárgyak mögé.
         ![1003foldalatt](https://user-images.githubusercontent.com/71563655/135762745-da501ea0-f870-492c-8736-a2fda1c4df94.png)
         
