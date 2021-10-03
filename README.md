@@ -23,4 +23,5 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * A kocsinak nincsen fizikája -> belépek a világba vele és nem esik le a földre (lebeg).
         * 1 óra után megtaláltam a probléma okát ( segített ez a videó: https://www.youtube.com/watch?v=T6vvnLRzjvY&t=301s )
         * Mozog a kocsi, már csak az animáció kell hozzá.
-
+    * 2021.10.03:
+        * Animációt megcsináltam hozzá. Idáig nem vettem észre vele kapcsolatban hibát. Ha a kézi féket használjuk akkor megállnak, kanyarodásnál mozdulnak, úgy ahogy kell.
