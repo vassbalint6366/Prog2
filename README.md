@@ -30,4 +30,5 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Mozgásban hiba: a kocsi könnyen csúszik kanyarodás közben.
         * Kocsinak nincs hangja. Valami kicsit sportosabb hangot találtam itt: https://www.fesliyanstudios.com/royalty-free-sound-effects-download/car-driving-207
         * A hangeffekteket szerkeszteni kell még.
-        
+        ![1003hangok](https://user-images.githubusercontent.com/71563655/135768269-fc1ba828-b8ee-43b6-afd1-940ff04a3e73.png)
+
