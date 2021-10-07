@@ -34,4 +34,7 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
     * 2021.10.04:
         * Kamera bug kijavítva. Mostmár nem megy át a falon.
         * Az assets amit letöltöttem (tárgyak) bugosak (hitbox hamarabb kezdődik mint a kinézet).
+        * A kocsi hangjával is akad probléma.
+    * 2021.10.07:
+        * Letöltöttem a "Blender"-t és nekiálltam gyakorolni vele.
 
