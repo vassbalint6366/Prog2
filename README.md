@@ -38,5 +38,8 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
     * 2021.10.07-x:
         * Hitbox javítás elkezdése... ez hosszú lesz...
         ![1007hitbox](https://user-images.githubusercontent.com/71563655/136452710-f45f4765-32de-4bef-bb8d-94ae80a8b3d6.png)
+        * 15 óra hitboxjavítás után találtam egy beállítást ami megcsinálja a hitboxot magától (2021.10.18). :)
+        ![1018hitboxoutplay](https://user-images.githubusercontent.com/71563655/137687403-749c6c6c-c038-47e7-8e23-de0a3bb03ecb.png)
+
         
 
