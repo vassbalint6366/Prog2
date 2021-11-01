@@ -35,11 +35,18 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Kamera bug kijavítva. Mostmár nem megy át a falon.
         * Az assets amit letöltöttem (tárgyak) bugosak (hitbox hamarabb kezdődik mint a kinézet).
         * A kocsi hangjával is akad probléma.
-    * 2021.10.07-x:
-        * Hitbox javítás elkezdése... ez hosszú lesz...
+    * 2021.10.07 - 2021.10.24:
+        * Hitbox javítás elkezdése... ez hosszú lesz... ( + lassú haladás zh időszak miatt )
         ![1007hitbox](https://user-images.githubusercontent.com/71563655/136452710-f45f4765-32de-4bef-bb8d-94ae80a8b3d6.png)
         * 15+ óra hitboxjavítás után találtam egy beállítást ami megcsinálja a hitboxot magától (2021.10.18). :)
         ![1018hitboxoutplay](https://user-images.githubusercontent.com/71563655/137687403-749c6c6c-c038-47e7-8e23-de0a3bb03ecb.png)
+        * hitboxok elkészültek.
+    * 2021.11.01 - :
+        *  Map készítése: Méretezések, ház elkészítése, házon kívüli részek készítése.
+        ![1101map_1](https://user-images.githubusercontent.com/71563655/139710007-6384de7a-2d5b-42f8-beee-9dc5208e2a04.png)
+        ![1101elhelyezes_1](https://user-images.githubusercontent.com/71563655/139720065-6b8b46fc-2477-423f-b236-836f04b83c01.png)
+
+
 
         
 
