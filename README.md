@@ -47,6 +47,8 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         ![1101elhelyezes_1](https://user-images.githubusercontent.com/71563655/139720065-6b8b46fc-2477-423f-b236-836f04b83c01.png)
     * 2021.11.04:
         * Fény beállítások, fénnyel kapcsolatos hibák javítása.
+        ![1104fenyek](https://user-images.githubusercontent.com/71563655/140419515-2f7574b0-151e-485f-a96d-58715c1a258f.png)
+
 
 
         
