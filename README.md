@@ -27,14 +27,15 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Animációt megcsináltam hozzá. Idáig nem vettem észre vele kapcsolatban hibát. Ha a kézi féket használjuk akkor megállnak, kanyarodásnál mozdulnak, úgy ahogy kell.
         * Kameramozgást tettem bele, amit az egérrel tudjuk kezelni. -> Kamera bug: be lehet vinni a föld alá és szilárd tárgyak mögé.
         ![1003foldalatt](https://user-images.githubusercontent.com/71563655/135762745-da501ea0-f870-492c-8736-a2fda1c4df94.png)
-        * Mozgásban hiba: a kocsi könnyen csúszik kanyarodás közben.
+        * A kocsi könnyen csúszik kanyarodás közben.
         * Kocsinak nincs hangja. Valami kicsit sportosabb hangot találtam itt: https://www.fesliyanstudios.com/royalty-free-sound-effects-download/car-driving-207
         * A hangeffekteket szerkeszteni kell még.
         ![1003hangok](https://user-images.githubusercontent.com/71563655/135768269-fc1ba828-b8ee-43b6-afd1-940ff04a3e73.png)
+        * Több óra után meglett a hang, de nem úgy működik ahogyan elképzeltem. A hangja jelenleg szörnyű (vissza fogok térni erre).
     * 2021.10.04:
         * Kamera bug kijavítva. Mostmár nem megy át a falon.
         * Az assets amit letöltöttem (tárgyak) bugosak (hitbox hamarabb kezdődik mint a kinézet).
-        * A kocsi hangjával is akad probléma.
+        * A kocsi hangját nem sikerült javítani.
     * 2021.10.07 - 2021.10.24:
         * Hitbox javítás elkezdése... ez hosszú lesz... ( + lassú haladás zh időszak miatt )
         ![1007hitbox](https://user-images.githubusercontent.com/71563655/136452710-f45f4765-32de-4bef-bb8d-94ae80a8b3d6.png)
