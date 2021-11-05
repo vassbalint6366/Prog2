@@ -50,6 +50,10 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Fény beállítások, fénnyel kapcsolatos hibák javítása.
         ![1104fenyek](https://user-images.githubusercontent.com/71563655/140419515-2f7574b0-151e-485f-a96d-58715c1a258f.png)
         * Lépcső elkészítése négyzetekből és hengerekből.
+    * 2021.11.05:
+        * Nappali kész.
+        ![1105nappali](https://user-images.githubusercontent.com/71563655/140576388-f8cddc1a-9823-4bba-a329-9f3399086783.png)
+        
 
 
 
