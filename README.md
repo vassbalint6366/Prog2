@@ -54,7 +54,7 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
     * 2021.11.05:
         * Nappali kész.
         ![1105nappali](https://user-images.githubusercontent.com/71563655/140576388-f8cddc1a-9823-4bba-a329-9f3399086783.png)
-        
+        * Kocsi lámpáját megcsináltam, mivel sok sötét hely volt ahol nem lehetett látni.
 
 
 
