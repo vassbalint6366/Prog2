@@ -57,7 +57,11 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Kocsi lámpáját megcsináltam, mivel sok sötét hely volt ahol nem lehetett látni + ha lehetett látni akkor zavaró a fénye, így megcsináltam, hogy ki lehessen kapcsolni a világítást ha éppen nincs rá szükségünk.
         ![1105kocsilampa](https://user-images.githubusercontent.com/71563655/140579118-4e90be31-fd7f-4447-8d47-eb6c0cc1d9b7.png)
         ![1105kocsilampaallitas](https://user-images.githubusercontent.com/71563655/140579045-ca17f2de-d5cd-4c70-b5ee-87a3cb075fec.png)
-
+    * 2021.11.06 - 2021.11.16:
+        * Alsó emelet elkészítése + kinti rész: fürdő, szoba, konyha & nappali, kinti "kondipark", folyosó.
+        * Díszités kisebb elemekkel, pontos elhelyezések, bugok keresése és javítások.
+        * Újabb assets-ek kerültek be --> hitboxok beállítása, javítása
+        * A fény azért volt szép mivel volt köd berakva a projektbe, amit sajnos ki kellett vennem mivel nagyon laggolt már az egész.
 
 
         
