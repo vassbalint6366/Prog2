@@ -62,6 +62,9 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Díszités kisebb elemekkel, pontos elhelyezések, bugok keresése és javítások.
         * Újabb assets-ek kerültek be --> hitboxok beállítása, javítása
         * A fény azért volt szép mivel volt köd berakva a projektbe, amit sajnos ki kellett vennem mivel nagyon laggolt már az egész.
+    * 2021.11.06 - 2021.11.16:
+        * A játék nagyon laggol már a gépemen. Több ram kellene ami nem megoldható.
+        ![1117niceram](https://user-images.githubusercontent.com/71563655/142500125-e733cbe5-c4de-4236-9be6-4820a9b272b9.png)
 
 
         
