@@ -68,6 +68,10 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
     * 2021.11.20
         * Nemsokára a végére érek. Egyre lassabban haladok a lagg miatt.
         * Hibákat próbálom még javítani ami benne van.
+        * Projekt megfagy teljesen a gépemen. Ház készen van, a fenti részen még lehetett volna mit javítani...
+        * Hangokat megcsináltam, tesztelni viszont már nem lehet :D
+        ![1120fajdalom](https://user-images.githubusercontent.com/71563655/142732619-6648c7ec-1c42-4181-b6dd-6cab32cbaf7d.png)
+
 
         
 
