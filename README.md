@@ -71,7 +71,8 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Projekt megfagy teljesen a gépemen. Ház készen van, a fenti részen még lehetett volna mit javítani...
         * Hangokat megcsináltam, tesztelni viszont már nem lehet :D
         ![1120fajdalom](https://user-images.githubusercontent.com/71563655/142732619-6648c7ec-1c42-4181-b6dd-6cab32cbaf7d.png)
-
+        * Keresetem az interneten mit lehetne ezekkel csinálni és nagyon jó tippek voltak fent -> gyenge a géped hozzá szóval vegyél jobbat :D Öröm ilyeneket olvasni.
+        
 
         
 
