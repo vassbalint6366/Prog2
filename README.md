@@ -47,7 +47,7 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         ![1101map_1](https://user-images.githubusercontent.com/71563655/139710007-6384de7a-2d5b-42f8-beee-9dc5208e2a04.png)
         ![1101elhelyezes_1](https://user-images.githubusercontent.com/71563655/139720065-6b8b46fc-2477-423f-b236-836f04b83c01.png)
     * 2021.11.04:
-        * Fény beállítások, fénnyel kapcsolatos hibák javítása.
+        * Fény beállítások, fénnyel kapcsolatos hibák javítása (köd lett berakva, ezen csillan meg a fény (update: ki lett véve végül, mivel sok grafika elem bugosan működött)).
         ![1104fenyek](https://user-images.githubusercontent.com/71563655/140419515-2f7574b0-151e-485f-a96d-58715c1a258f.png)
         * Lépcső elkészítése négyzetekből és hengerekből.
         ![1104lepcso](https://user-images.githubusercontent.com/71563655/140577103-3f6c157c-3295-429d-b3df-88dd79c366dc.png)
