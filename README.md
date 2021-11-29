@@ -75,7 +75,7 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
 
 Dolgok amiket még szerettem volna, de a gépem már kevés hozzá / nem lehet tesztelni:
 * Reset gomb a kamerára
-* Több item, ugratók, kisebb "alagutak" felső emeletre egy gyerekszoba
+* Több item, ugratók, kisebb "alagutak", felső emeletre egy gyerekszoba
 * Időzítő (trackmania-hoz hasonló játék) --> már az ötlet is megvolt, hogy mi legyen a pálya és miből épüljön fel
 * Kisebb javítások a kocsi mozgásán
 * Hangok tesztelése, javítása
