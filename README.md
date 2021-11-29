@@ -69,10 +69,13 @@ Egy open world játék, amiben egy házban tudunk menni egy kicsi autóval. Hely
         * Nemsokára a végére érek. Egyre lassabban haladok a lagg miatt.
         * Hibákat próbálom még javítani ami benne van.
         * Projekt megfagy teljesen a gépemen. Ház készen van, a fenti részen még lehetett volna mit javítani...
-        * Hangokat megcsináltam, tesztelni viszont már nem lehet :D
+        * Hangokat megcsináltam, tesztelni viszont már nem lehet :(
         ![1120fajdalom](https://user-images.githubusercontent.com/71563655/142732619-6648c7ec-1c42-4181-b6dd-6cab32cbaf7d.png)
         * Keresetem az interneten mit lehetne ezekkel csinálni és nagyon jó tippek voltak fent -> gyenge a géped hozzá szóval vegyél jobbat :D Öröm ilyeneket olvasni.
-        
 
-        
-
+Dolgok amiket még szerettem volna, de a gépem már kevés hozzá / nem lehet tesztelni:
+* Reset gomb a kamerára
+* Több item, ugratók, kisebb "alagutak" felső emeletre egy gyerekszoba
+* Időzítő (trackmania-hoz hasonló játék) --> már az ötlet is megvolt, hogy mi legyen a pálya és miből épüljön fel
+* Kisebb javítások a kocsi mozgásán
+* Hangok tesztelése, javítása
